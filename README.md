@@ -3,4 +3,4 @@
 
 ![图片描述](https://github.com/AAIN111/DeepFi-vidio/blob/main/video.gif)
 
-[https://github.com/AAIN111/DeepFi-vidio/issues/1](https://github.com/AAIN111/DeepFi-vidio/issues/1#issue-2740269117)
+(https://github.com/user-attachments/assets/adfb359d-d1b4-4172-a690-00e212814eba)
